@@ -40,6 +40,7 @@ Screenshots
 <img width="1122" height="781" alt="image" src="https://github.com/user-attachments/assets/f3ed02f9-f473-482c-8f7e-f49fbbe3c010" />
 
 What I Learned
+
 Working with APIs (GET/POST requests)
 Handling JSON data
 Building GUI applications with Tkinter
