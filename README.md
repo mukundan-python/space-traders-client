@@ -22,14 +22,12 @@ The application sends HTTP requests to the Space Traders API to retrieve and upd
 
 Installation
 
+```
 git clone https://github.com/mukundan-python/space-traders-client.git
-
 cd space-traders-client
-
 pip install -r requirements.txt
-
 python main.py
-
+```
 
 Screenshots
 
