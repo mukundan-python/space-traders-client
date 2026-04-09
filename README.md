@@ -4,17 +4,18 @@ Overview
 
 A Python desktop application that interacts with the Space Traders API, allowing users to manage ships, trade resources, and handle contracts through a graphical interface.
 
-Features :
-  Ship navigation between systems
-  Market trading (buy/sell resources)
-  Contract management
-  Real-time API interaction
-  GUI built with Tkinter
-  Tech Stack
-  Python
-  Tkinter
-  REST API (Space Traders)
-  JSON data handling
+**Features**
+- Ship navigation between systems
+- Market trading (buy/sell resources)
+- Contract management
+- Real-time API interaction
+- GUI built with Tkinter
+
+**Tech Stack**
+- Python
+- Tkinter
+- REST API (Space Traders)
+- JSON data handling
 
 How It Works
 
@@ -39,15 +40,13 @@ Screenshots
 
 <img width="1122" height="781" alt="image" src="https://github.com/user-attachments/assets/f3ed02f9-f473-482c-8f7e-f49fbbe3c010" />
 
-What I Learned
+**What I Learned**
+- Working with APIs (GET/POST requests)
+- Handling JSON data
+- Building GUI applications with Tkinter
+- Structuring Python code into modules
 
-Working with APIs (GET/POST requests)
-Handling JSON data
-Building GUI applications with Tkinter
-Structuring Python code into modules
-
-Future Improvements
-
-Improve UI design
-Add more features
-Refactor code for scalability
+**Future Improvements**
+- Improve UI design
+- Add more features
+- Refactor code for scalability
