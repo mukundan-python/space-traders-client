@@ -26,7 +26,6 @@ Installation
 ```
 git clone https://github.com/mukundan-python/space-traders-client.git
 cd space-traders-client
-pip install -r requirements.txt
 python main.py
 ```
 
