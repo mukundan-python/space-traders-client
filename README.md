@@ -1,4 +1,4 @@
-Space Traders API Client
+Space Traders API Client - 2026
 
 Overview
 
