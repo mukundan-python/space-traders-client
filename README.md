@@ -1,28 +1,33 @@
 Space Traders API Client
+
 Overview
 
 A Python desktop application that interacts with the Space Traders API, allowing users to manage ships, trade resources, and handle contracts through a graphical interface.
 
-Features
-Ship navigation between systems
-Market trading (buy/sell resources)
-Contract management
-Real-time API interaction
-GUI built with Tkinter
-Tech Stack
-Python
-Tkinter
-REST API (Space Traders)
-JSON data handling
+Features :
+  Ship navigation between systems
+  Market trading (buy/sell resources)
+  Contract management
+  Real-time API interaction
+  GUI built with Tkinter
+  Tech Stack
+  Python
+  Tkinter
+  REST API (Space Traders)
+  JSON data handling
+
 How It Works
 
 The application sends HTTP requests to the Space Traders API to retrieve and update game data. The GUI allows users to interact with ships, markets, and contracts, while backend logic processes responses and updates the interface.
 
 Installation
+
 git clone https://github.com/mukundan-python/space-traders-client.git
 cd space-traders-client
 pip install -r requirements.txt
 python main.py
+
+
 Screenshots
 <img width="1140" height="803" alt="image" src="https://github.com/user-attachments/assets/5ad440b1-0176-4cd5-82c3-12a17ca6a73d" />
 
@@ -37,7 +42,9 @@ Working with APIs (GET/POST requests)
 Handling JSON data
 Building GUI applications with Tkinter
 Structuring Python code into modules
+
 Future Improvements
+
 Improve UI design
 Add more features
 Refactor code for scalability
